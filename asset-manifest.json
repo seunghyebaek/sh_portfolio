@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sh_portfolio/static/css/main.f340fd4f.css",
+    "main.js": "/sh_portfolio/static/js/main.e6b97c41.js",
+    "static/media/about.jpg": "/sh_portfolio/static/media/about.6dd1ba5f50f0b8124a7a.jpg",
+    "static/media/profile.jpg": "/sh_portfolio/static/media/profile.6dd1ba5f50f0b8124a7a.jpg",
+    "static/media/SeunghyeBaek_Resume.pdf": "/sh_portfolio/static/media/SeunghyeBaek_Resume.0ed3a3b92b70e4de6670.pdf",
+    "static/media/testimonial3.png": "/sh_portfolio/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/work2.jpg": "/sh_portfolio/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/testimonial2.png": "/sh_portfolio/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/work4.jpg": "/sh_portfolio/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/sh_portfolio/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/sh_portfolio/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/sh_portfolio/static/media/work3.135e9065694bc13dc31d.jpg",
+    "static/media/testimonial1.png": "/sh_portfolio/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/sh_portfolio/index.html",
+    "main.f340fd4f.css.map": "/sh_portfolio/static/css/main.f340fd4f.css.map",
+    "main.e6b97c41.js.map": "/sh_portfolio/static/js/main.e6b97c41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f340fd4f.css",
+    "static/js/main.e6b97c41.js"
+  ]
+}
